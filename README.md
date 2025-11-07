@@ -18,5 +18,5 @@ The GLM and MaxEnt model predicted that under the best-case scenario (SSP1), by 
 
 **Some of the Key Guides We Used:**
 - A very brief introduction to species distribution models in R, by Tristan Salles 
-- FW840: Landscape Ecology - Week 4: Species Distribution Modelling, by Patrick Hanly (2025) 
+- FW840: Landscape Ecology - Week 4: Species Distribution Modelling, by Patrick Hanly (2025): https://bookdown.org/pjhanly/fw840hanly/week-4-species-distribution-models.html
 - EcoCommons Australia Generalised Linear Model (GLM) tutorial available at EcoCommons Australia GLM Notebook (EcoCommons Australia, 2023): https://ecocommonsaustralia.github.io/notebook-blog/notebooks/EC_GLM/EC_GLM.html
