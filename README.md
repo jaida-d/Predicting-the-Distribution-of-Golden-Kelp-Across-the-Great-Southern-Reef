@@ -2,7 +2,7 @@
 Predicting the Distribution of Golden Kelp Across the Great Southern Reef Under Future Climate Scenarios\
 \
 **Datasets:**\
-Data used for this report can be accessed by the following links:\
+Data used for this report can be accessed by the following links:
 - imos data: https://catalogue-imos.aodn.org.au/geonetwork/srv/eng/catalog.search#/metadata/ec424e4f-0f55-41a5-a3f2-726bc4541947 
 - gbif data: https://doi.org/10.15468/dl.az6pza 
 - Bio-ORACLE: https://www.bio-oracle.org/downloads-to-email.php 
